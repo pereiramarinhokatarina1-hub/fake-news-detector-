@@ -117,11 +117,7 @@ button {
 
     cursor: pointer;
 
-    background: linear-gradient(
-        135deg,
-        #22c55e,
-        #14b8a6,
-    );
+    background: linear-gradient(135deg,#22c55e,#14b8a6);
 
     transition: 0.3s;
 
